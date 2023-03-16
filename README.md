@@ -1,7 +1,7 @@
 # Python Chess AI
 
 First, run the program and you will immediately
-be prompted for a move. The way our board is set up is in an ascii-board format. It is an 8x8 gird that either shows a dot, which represents an empty square, a
+be prompted for a move. The way our board is set up is in an ascii-board format. It is an 8x8 grid that either shows a dot, which represents an empty square, a
 lowercase letter, which represents a black piece, or an uppercase letter which represents
 a white piece. For the letters “R” represents the rook, “N” the knight, “B” the bishop, “Q”
 the queen, “K” the king, and “P” the pawn. In chess the board squares are labeled based
